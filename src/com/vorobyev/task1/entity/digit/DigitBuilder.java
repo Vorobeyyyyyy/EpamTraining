@@ -1,4 +1,4 @@
-package com.vorobyev.task1.entity.Digit;
+package com.vorobyev.task1.entity.digit;
 
 public class DigitBuilder {
     public Digit lastDigit(int value){

@@ -1,7 +1,7 @@
 package com.vorobyev.task1.main;
 
-import com.vorobyev.task1.entity.Digit.Digit;
-import com.vorobyev.task1.entity.Digit.DigitBuilder;
+import com.vorobyev.task1.entity.digit.Digit;
+import com.vorobyev.task1.entity.digit.DigitBuilder;
 import com.vorobyev.task1.report.DigitReport;
 import com.vorobyev.task1.service.DigitService;
 

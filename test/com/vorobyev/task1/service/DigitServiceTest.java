@@ -1,12 +1,8 @@
 package com.vorobyev.task1.service;
 
-import com.vorobyev.task1.entity.Digit.Digit;
-import com.vorobyev.task1.entity.Digit.DigitBuilder;
-import com.vorobyev.task1.report.DigitReport;
+import com.vorobyev.task1.entity.digit.Digit;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
-import static org.testng.Assert.*;
 
 public class DigitServiceTest {
 

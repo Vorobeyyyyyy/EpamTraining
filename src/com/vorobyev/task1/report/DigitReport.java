@@ -1,6 +1,6 @@
 package com.vorobyev.task1.report;
 
-import com.vorobyev.task1.entity.Digit.Digit;
+import com.vorobyev.task1.entity.digit.Digit;
 
 public class DigitReport {
 
