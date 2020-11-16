@@ -1,5 +1,4 @@
 package com.vorobyev.day2.service;
-import com.vorobyev.day2.scanner.DateScannerException;
 
 import java.time.DayOfWeek;
 import java.time.format.TextStyle;
@@ -40,7 +39,7 @@ public class DateService {
         }
         Calendar calendar = Calendar.getInstance();
         calendar.set(Calendar.YEAR, year);
-        calendar.set(Calendar.MONTH, month);
+        calendar.set(Calendar.MONTH, month - 1);
         int daysInMonth = calendar.getActualMaximum(Calendar.DAY_OF_MONTH);
         return day <= daysInMonth && day > 0;
 

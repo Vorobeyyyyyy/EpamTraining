@@ -1,8 +1,5 @@
 package com.vorobyev.day2.report;
 
-import java.time.DayOfWeek;
-import java.util.Calendar;
-
 public class DateReport {
 
     public void happyBirthday(){
