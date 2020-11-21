@@ -5,10 +5,14 @@ import com.vorobyev.day4task1.report.ArrayReport;
 import com.vorobyev.day4task1.report.ExceptionReport;
 import com.vorobyev.day4task1.scanner.ArrayScanner;
 import com.vorobyev.day4task1.util.ArrayGenerator;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 import java.io.FileNotFoundException;
 
 public class ProjectMain {
+    private static final Logger logger = LogManager.getLogger();
+
     public static void main(String[] args) {
         ArrayReport report = new ArrayReport();
         ArrayScanner arrayScanner = new ArrayScanner();
