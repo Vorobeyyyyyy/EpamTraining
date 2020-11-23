@@ -1,10 +1,14 @@
 package com.vorobyev.day4task1.service;
 
 import com.vorobyev.day4task1.entity.Array;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 public class SortService {
+    private static final Logger logger = LogManager.getLogger();
 
     public boolean isSorted(Array array){
+
         int[] intArray = array.getArray();
         int i = 0;
         boolean sorted = true;
@@ -15,6 +19,7 @@ public class SortService {
             }
             i++;
         }
+        logger.info("sorted: {}", sorted);
         return sorted;
     }
 
@@ -32,6 +37,7 @@ public class SortService {
                 }
             }
         }
+        logger.info("Successful sort");
         return new Array(intArray);
     }
 
@@ -46,6 +52,7 @@ public class SortService {
             }
             intArray[j+1] = current;
         }
+        logger.info("Successful sort");
         return new Array(intArray);
     }
 
@@ -64,6 +71,7 @@ public class SortService {
             intArray[i] = min;
             intArray[minId] = temp;
         }
+        logger.info("Successful sort");
         return new Array(intArray);
     }
 }
