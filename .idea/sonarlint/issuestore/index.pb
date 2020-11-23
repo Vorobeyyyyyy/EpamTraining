@@ -115,5 +115,9 @@ j
 :test/com/vorobyev/day4task1/service/SearchServiceTest.java,9\4\943b5550b2e187519b548f6e92608c4b0515bb88
 \
 ,src/com/vorobyev/day4task1/entity/Array.java,e\5\e595dc288e8b86246563be1172ed4f12425b46ba
-6
-1.json,a\2\a2647e15bc467f3bc4688c64eb184e6bd913f537
+T
+$.idea/libraries/log4j_api_2_12_1.xml,6\b\6b4ff4e3e58c32b16f34732d2f0ede551ce82f19
+P
+ .idea/libraries/testng_7_1_1.xml,4\6\463f0710fa5ea31d9ae19ad52f4623367abd8382
+<
+logs/log.txt,a\2\a2109b945a4e4d105aaf6d4fdb6490cae625b03d

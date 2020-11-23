@@ -2,10 +2,13 @@ package com.vorobyev.day4task1.service;
 
 import com.vorobyev.day4task1.entity.Array;
 import com.vorobyev.day4task1.exception.SearchServiceException;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 import java.util.function.IntPredicate;
 
 public class SearchService {
+    private static final Logger logger = LogManager.getLogger();
 
     public int binarySearch(Array array, int value) throws SearchServiceException {
         SortService sortService = new SortService();
@@ -31,8 +34,10 @@ public class SearchService {
         }
 
         if (intArray[pos] != value){
+            logger.warn("No such element exception");
             throw new SearchServiceException("No such element");
         }
+        logger.info("Found element {} in pos {}", value, pos);
         return pos;
     }
 
@@ -47,6 +52,7 @@ public class SearchService {
                 min = intArray[i];
             }
         }
+        logger.info("Found min value {}", min);
         return min;
     }
 
@@ -61,6 +67,7 @@ public class SearchService {
                 max = intArray[i];
             }
         }
+        logger.info("Found max value {}", max);
         return max;
     }
 
@@ -71,6 +78,7 @@ public class SearchService {
                 simpleArray.add(a);
             }
         }
+        logger.info("Found all values");
         return simpleArray;
     }
 

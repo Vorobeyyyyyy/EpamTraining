@@ -1,13 +1,22 @@
 package com.vorobyev.day4task1.service;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 public class IntService {
+    private static final Logger logger = LogManager.getLogger();
+
     public boolean isSimple(int value){
         value = Math.abs(value);
+        boolean result = true;
         for (int i = 2; i < Math.sqrt(value); i++){
-            if (value % i == 0)
-                return false;
+            if (value % i == 0) {
+                result = false;
+                break;
+            }
         }
-        return true;
+        logger.info("In simple value: {} result: {}", value, result);
+        return result;
     }
 
     public boolean isFibonacci(int value){
@@ -18,7 +27,9 @@ public class IntService {
             curValue = prevValue + curValue;
             prevValue = tempCurValue;
         }
-        return value == curValue;
+        boolean result = value == curValue;
+        logger.info("In isFibonacci value: {} result: {}", value, result);
+        return result;
     }
 
     public boolean isUniqueDigits(int value){
@@ -35,6 +46,7 @@ public class IntService {
                 }
             }
         }
+        logger.info("In isUniqueDigits value: {} result: {}", value, unique);
         return unique;
     }
 }

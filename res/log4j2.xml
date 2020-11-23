@@ -2,8 +2,8 @@
 <Configuration status="WARN">
     <Properties>
         <Property name="LOG_DIR" value = "logs"> </Property>
-        <Property name="PATTERN_CONSOLE" value = "%d{HH:mm:ss.SSS} [%t] %-5level %logger{4} - %msg%n"> </Property>
-        <Property name="PATTERN_FILE" value = "%d{HH:mm:ss.SSS} [%t] %-5level %logger{4} - %msg%n"> </Property>
+        <Property name="PATTERN_CONSOLE" value = "%d{ss.SSS} [%t] %-5level %logger{2}.%M - %msg%n"> </Property>
+        <Property name="PATTERN_FILE" value = "%d{HH:mm:ss.SSS} [%t] %-5level %logger{4}.%M - %msg%n"> </Property>
     </Properties>
     <Appenders>
         <Console name="ConsoleAppender" target="SYSTEM_OUT">

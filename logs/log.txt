@@ -18,3 +18,175 @@
 19:53:55.692 [main] INFO  vorobyev.day4task1.entity.Array - Added value 80
 19:53:55.692 [main] INFO  vorobyev.day4task1.entity.Array - Added value 25
 19:53:55.692 [main] INFO  vorobyev.day4task1.entity.Array - Added value 74
+22:53:50.537 [main] INFO  vorobyev.day4task1.entity.Array - Added value 9
+22:53:50.540 [main] INFO  vorobyev.day4task1.entity.Array - Added value 12
+22:53:50.540 [main] INFO  vorobyev.day4task1.entity.Array - Added value 44
+22:53:50.540 [main] INFO  vorobyev.day4task1.entity.Array - Added value 22
+22:53:50.540 [main] INFO  vorobyev.day4task1.entity.Array - Added value -14
+22:53:50.540 [main] INFO  vorobyev.day4task1.entity.Array - Added value 56
+22:53:50.540 [main] INFO  vorobyev.day4task1.entity.Array - Added value 25
+22:53:50.540 [main] INFO  vorobyev.day4task1.entity.Array - Added value -1
+22:53:50.541 [main] INFO  vorobyev.day4task1.entity.Array - Added value 45
+22:53:50.541 [main] INFO  vorobyev.day4task1.entity.Array - Added value 3
+22:53:50.542 [main] INFO  vorobyev.day4task1.entity.Array - Added value 70
+22:53:50.543 [main] INFO  vorobyev.day4task1.entity.Array - Added value 58
+22:53:50.543 [main] INFO  vorobyev.day4task1.entity.Array - Added value 55
+22:53:50.543 [main] INFO  vorobyev.day4task1.entity.Array - Added value 84
+22:53:50.543 [main] INFO  vorobyev.day4task1.entity.Array - Added value 89
+22:53:50.543 [main] INFO  vorobyev.day4task1.entity.Array - Added value 29
+22:53:50.543 [main] INFO  vorobyev.day4task1.entity.Array - Added value 64
+22:53:50.543 [main] INFO  vorobyev.day4task1.entity.Array - Added value 40
+22:53:50.543 [main] INFO  vorobyev.day4task1.entity.Array - Added value 11
+22:53:50.543 [main] INFO  vorobyev.day4task1.entity.Array - Added value 54
+22:55:34.295 [main] INFO  vorobyev.day4task1.entity.Array - Added value 9
+22:55:34.298 [main] INFO  vorobyev.day4task1.entity.Array - Added value 12
+22:55:34.298 [main] INFO  vorobyev.day4task1.entity.Array - Added value 44
+22:55:34.298 [main] INFO  vorobyev.day4task1.entity.Array - Added value 22
+22:55:34.298 [main] INFO  vorobyev.day4task1.entity.Array - Added value -14
+22:55:34.298 [main] INFO  vorobyev.day4task1.entity.Array - Added value 56
+22:55:34.298 [main] INFO  vorobyev.day4task1.entity.Array - Added value 25
+22:55:34.298 [main] INFO  vorobyev.day4task1.entity.Array - Added value -1
+22:55:34.298 [main] INFO  vorobyev.day4task1.entity.Array - Added value 45
+22:55:34.298 [main] INFO  vorobyev.day4task1.entity.Array - Added value 3
+22:55:34.300 [main] INFO  vorobyev.day4task1.entity.Array - Added value 97
+22:55:34.301 [main] INFO  vorobyev.day4task1.entity.Array - Added value 65
+22:55:34.301 [main] INFO  vorobyev.day4task1.entity.Array - Added value 66
+22:55:34.301 [main] INFO  vorobyev.day4task1.entity.Array - Added value 16
+22:55:34.301 [main] INFO  vorobyev.day4task1.entity.Array - Added value 79
+22:55:34.301 [main] INFO  vorobyev.day4task1.entity.Array - Added value 51
+22:55:34.301 [main] INFO  vorobyev.day4task1.entity.Array - Added value 33
+22:55:34.301 [main] INFO  vorobyev.day4task1.entity.Array - Added value 74
+22:55:34.301 [main] INFO  vorobyev.day4task1.entity.Array - Added value 71
+22:55:34.301 [main] INFO  vorobyev.day4task1.entity.Array - Added value 64
+09:20:28.879 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 9
+09:20:28.882 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 12
+09:20:28.883 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 44
+09:20:28.883 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 22
+09:20:28.883 add [main] INFO  vorobyev.day4task1.entity.Array - Added value -14
+09:20:28.883 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 56
+09:20:28.883 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 25
+09:20:28.883 add [main] INFO  vorobyev.day4task1.entity.Array - Added value -1
+09:20:28.884 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 45
+09:20:28.884 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 3
+09:20:28.884 size [main] INFO  vorobyev.day4task1.entity.Array - Returned size (10)
+09:20:28.884 fromFile [main] INFO  vorobyev.day4task1.scanner.ArrayScanner - Read array from console with size 10
+09:20:28.886 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 3
+09:20:28.886 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 84
+09:20:28.887 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 23
+09:20:28.887 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 55
+09:20:28.887 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 63
+09:20:28.887 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 44
+09:20:28.887 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 21
+09:20:28.887 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 11
+09:20:28.887 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 99
+09:20:28.888 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 41
+09:21:20.695 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 9
+09:21:20.697 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 12
+09:21:20.698 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 44
+09:21:20.698 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 22
+09:21:20.698 [main] INFO .add vorobyev.day4task1.entity.Array - Added value -14
+09:21:20.698 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 56
+09:21:20.699 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 25
+09:21:20.699 [main] INFO .add vorobyev.day4task1.entity.Array - Added value -1
+09:21:20.699 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 45
+09:21:20.699 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 3
+09:21:20.699 [main] INFO .size vorobyev.day4task1.entity.Array - Returned size (10)
+09:21:20.700 [main] INFO .fromFile vorobyev.day4task1.scanner.ArrayScanner - Read array from console with size 10
+09:21:20.701 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 98
+09:21:20.702 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 75
+09:21:20.702 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 86
+09:21:20.702 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 15
+09:21:20.702 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 38
+09:21:20.702 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 84
+09:21:20.702 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 80
+09:21:20.703 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 39
+09:21:20.703 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 52
+09:21:20.703 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 66
+09:21:34.066 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 9
+09:21:34.069 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 12
+09:21:34.069 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 44
+09:21:34.069 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 22
+09:21:34.069 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value -14
+09:21:34.069 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 56
+09:21:34.070 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 25
+09:21:34.070 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value -1
+09:21:34.070 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 45
+09:21:34.070 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 3
+09:21:34.071 [main] INFO  vorobyev.day4task1.entity.Array.size - Returned size (10)
+09:21:34.071 [main] INFO  vorobyev.day4task1.scanner.ArrayScanner.fromFile - Read array from console with size 10
+09:21:34.073 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 56
+09:21:34.073 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 19
+09:21:34.073 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 34
+09:21:34.073 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 17
+09:21:34.074 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 93
+09:21:34.074 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 40
+09:21:34.074 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 85
+09:21:34.074 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 76
+09:21:34.074 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 34
+09:21:34.074 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 74
+09:21:46.695 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 9
+09:21:46.697 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 12
+09:21:46.698 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 44
+09:21:46.698 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 22
+09:21:46.698 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value -14
+09:21:46.698 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 56
+09:21:46.699 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 25
+09:21:46.699 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value -1
+09:21:46.699 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 45
+09:21:46.699 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 3
+09:21:46.700 [main] INFO  vorobyev.day4task1.entity.Array.size - Returned size (10)
+09:21:46.700 [main] INFO  vorobyev.day4task1.scanner.ArrayScanner.fromFile - Read array from console with size 10
+09:21:46.701 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 19
+09:21:46.702 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 0
+09:21:46.702 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 22
+09:21:46.702 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 16
+09:21:46.702 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 47
+09:21:46.702 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 56
+09:21:46.702 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 16
+09:21:46.702 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 46
+09:21:46.703 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 50
+09:21:46.703 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 33
+09:22:15.148 [main] INFO  entity.Array.add - Added value 9
+09:22:15.151 [main] INFO  entity.Array.add - Added value 12
+09:22:15.152 [main] INFO  entity.Array.add - Added value 44
+09:22:15.152 [main] INFO  entity.Array.add - Added value 22
+09:22:15.152 [main] INFO  entity.Array.add - Added value -14
+09:22:15.152 [main] INFO  entity.Array.add - Added value 56
+09:22:15.152 [main] INFO  entity.Array.add - Added value 25
+09:22:15.153 [main] INFO  entity.Array.add - Added value -1
+09:22:15.153 [main] INFO  entity.Array.add - Added value 45
+09:22:15.153 [main] INFO  entity.Array.add - Added value 3
+09:22:15.154 [main] INFO  entity.Array.size - Returned size (10)
+09:22:15.154 [main] INFO  scanner.ArrayScanner.fromFile - Read array from console with size 10
+09:22:15.156 [main] INFO  entity.Array.add - Added value 48
+09:22:15.157 [main] INFO  entity.Array.add - Added value 73
+09:22:15.157 [main] INFO  entity.Array.add - Added value 25
+09:22:15.157 [main] INFO  entity.Array.add - Added value 20
+09:22:15.157 [main] INFO  entity.Array.add - Added value 53
+09:22:15.157 [main] INFO  entity.Array.add - Added value 14
+09:22:15.157 [main] INFO  entity.Array.add - Added value 50
+09:22:15.158 [main] INFO  entity.Array.add - Added value 28
+09:22:15.158 [main] INFO  entity.Array.add - Added value 20
+09:22:15.158 [main] INFO  entity.Array.add - Added value 6
+09:22:38.887 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 9
+09:22:38.890 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 12
+09:22:38.890 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 44
+09:22:38.890 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 22
+09:22:38.891 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value -14
+09:22:38.891 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 56
+09:22:38.891 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 25
+09:22:38.891 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value -1
+09:22:38.892 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 45
+09:22:38.892 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 3
+09:22:38.892 [main] INFO  vorobyev.day4task1.entity.Array.size - Returned size (10)
+09:22:38.892 [main] INFO  vorobyev.day4task1.scanner.ArrayScanner.fromFile - Read array from console with size 10
+09:22:38.894 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 22
+09:22:38.894 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 69
+09:22:38.895 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 42
+09:22:38.895 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 16
+09:22:38.895 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 80
+09:22:38.895 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 58
+09:22:38.895 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 16
+09:22:38.895 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 48
+09:22:38.895 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 55
+09:22:38.896 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 25
