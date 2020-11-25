@@ -1,192 +1,382 @@
-19:53:55.687 [main] INFO  vorobyev.day4task1.entity.Array - Added value 9
-19:53:55.689 [main] INFO  vorobyev.day4task1.entity.Array - Added value 12
-19:53:55.689 [main] INFO  vorobyev.day4task1.entity.Array - Added value 44
-19:53:55.689 [main] INFO  vorobyev.day4task1.entity.Array - Added value 22
-19:53:55.689 [main] INFO  vorobyev.day4task1.entity.Array - Added value -14
-19:53:55.689 [main] INFO  vorobyev.day4task1.entity.Array - Added value 56
-19:53:55.689 [main] INFO  vorobyev.day4task1.entity.Array - Added value 25
-19:53:55.689 [main] INFO  vorobyev.day4task1.entity.Array - Added value -1
-19:53:55.689 [main] INFO  vorobyev.day4task1.entity.Array - Added value 45
-19:53:55.690 [main] INFO  vorobyev.day4task1.entity.Array - Added value 3
-19:53:55.691 [main] INFO  vorobyev.day4task1.entity.Array - Added value 17
-19:53:55.692 [main] INFO  vorobyev.day4task1.entity.Array - Added value 9
-19:53:55.692 [main] INFO  vorobyev.day4task1.entity.Array - Added value 38
-19:53:55.692 [main] INFO  vorobyev.day4task1.entity.Array - Added value 62
-19:53:55.692 [main] INFO  vorobyev.day4task1.entity.Array - Added value 53
-19:53:55.692 [main] INFO  vorobyev.day4task1.entity.Array - Added value 91
-19:53:55.692 [main] INFO  vorobyev.day4task1.entity.Array - Added value 0
-19:53:55.692 [main] INFO  vorobyev.day4task1.entity.Array - Added value 80
-19:53:55.692 [main] INFO  vorobyev.day4task1.entity.Array - Added value 25
-19:53:55.692 [main] INFO  vorobyev.day4task1.entity.Array - Added value 74
-22:53:50.537 [main] INFO  vorobyev.day4task1.entity.Array - Added value 9
-22:53:50.540 [main] INFO  vorobyev.day4task1.entity.Array - Added value 12
-22:53:50.540 [main] INFO  vorobyev.day4task1.entity.Array - Added value 44
-22:53:50.540 [main] INFO  vorobyev.day4task1.entity.Array - Added value 22
-22:53:50.540 [main] INFO  vorobyev.day4task1.entity.Array - Added value -14
-22:53:50.540 [main] INFO  vorobyev.day4task1.entity.Array - Added value 56
-22:53:50.540 [main] INFO  vorobyev.day4task1.entity.Array - Added value 25
-22:53:50.540 [main] INFO  vorobyev.day4task1.entity.Array - Added value -1
-22:53:50.541 [main] INFO  vorobyev.day4task1.entity.Array - Added value 45
-22:53:50.541 [main] INFO  vorobyev.day4task1.entity.Array - Added value 3
-22:53:50.542 [main] INFO  vorobyev.day4task1.entity.Array - Added value 70
-22:53:50.543 [main] INFO  vorobyev.day4task1.entity.Array - Added value 58
-22:53:50.543 [main] INFO  vorobyev.day4task1.entity.Array - Added value 55
-22:53:50.543 [main] INFO  vorobyev.day4task1.entity.Array - Added value 84
-22:53:50.543 [main] INFO  vorobyev.day4task1.entity.Array - Added value 89
-22:53:50.543 [main] INFO  vorobyev.day4task1.entity.Array - Added value 29
-22:53:50.543 [main] INFO  vorobyev.day4task1.entity.Array - Added value 64
-22:53:50.543 [main] INFO  vorobyev.day4task1.entity.Array - Added value 40
-22:53:50.543 [main] INFO  vorobyev.day4task1.entity.Array - Added value 11
-22:53:50.543 [main] INFO  vorobyev.day4task1.entity.Array - Added value 54
-22:55:34.295 [main] INFO  vorobyev.day4task1.entity.Array - Added value 9
-22:55:34.298 [main] INFO  vorobyev.day4task1.entity.Array - Added value 12
-22:55:34.298 [main] INFO  vorobyev.day4task1.entity.Array - Added value 44
-22:55:34.298 [main] INFO  vorobyev.day4task1.entity.Array - Added value 22
-22:55:34.298 [main] INFO  vorobyev.day4task1.entity.Array - Added value -14
-22:55:34.298 [main] INFO  vorobyev.day4task1.entity.Array - Added value 56
-22:55:34.298 [main] INFO  vorobyev.day4task1.entity.Array - Added value 25
-22:55:34.298 [main] INFO  vorobyev.day4task1.entity.Array - Added value -1
-22:55:34.298 [main] INFO  vorobyev.day4task1.entity.Array - Added value 45
-22:55:34.298 [main] INFO  vorobyev.day4task1.entity.Array - Added value 3
-22:55:34.300 [main] INFO  vorobyev.day4task1.entity.Array - Added value 97
-22:55:34.301 [main] INFO  vorobyev.day4task1.entity.Array - Added value 65
-22:55:34.301 [main] INFO  vorobyev.day4task1.entity.Array - Added value 66
-22:55:34.301 [main] INFO  vorobyev.day4task1.entity.Array - Added value 16
-22:55:34.301 [main] INFO  vorobyev.day4task1.entity.Array - Added value 79
-22:55:34.301 [main] INFO  vorobyev.day4task1.entity.Array - Added value 51
-22:55:34.301 [main] INFO  vorobyev.day4task1.entity.Array - Added value 33
-22:55:34.301 [main] INFO  vorobyev.day4task1.entity.Array - Added value 74
-22:55:34.301 [main] INFO  vorobyev.day4task1.entity.Array - Added value 71
-22:55:34.301 [main] INFO  vorobyev.day4task1.entity.Array - Added value 64
-09:20:28.879 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 9
-09:20:28.882 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 12
-09:20:28.883 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 44
-09:20:28.883 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 22
-09:20:28.883 add [main] INFO  vorobyev.day4task1.entity.Array - Added value -14
-09:20:28.883 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 56
-09:20:28.883 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 25
-09:20:28.883 add [main] INFO  vorobyev.day4task1.entity.Array - Added value -1
-09:20:28.884 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 45
-09:20:28.884 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 3
-09:20:28.884 size [main] INFO  vorobyev.day4task1.entity.Array - Returned size (10)
-09:20:28.884 fromFile [main] INFO  vorobyev.day4task1.scanner.ArrayScanner - Read array from console with size 10
-09:20:28.886 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 3
-09:20:28.886 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 84
-09:20:28.887 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 23
-09:20:28.887 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 55
-09:20:28.887 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 63
-09:20:28.887 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 44
-09:20:28.887 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 21
-09:20:28.887 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 11
-09:20:28.887 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 99
-09:20:28.888 add [main] INFO  vorobyev.day4task1.entity.Array - Added value 41
-09:21:20.695 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 9
-09:21:20.697 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 12
-09:21:20.698 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 44
-09:21:20.698 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 22
-09:21:20.698 [main] INFO .add vorobyev.day4task1.entity.Array - Added value -14
-09:21:20.698 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 56
-09:21:20.699 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 25
-09:21:20.699 [main] INFO .add vorobyev.day4task1.entity.Array - Added value -1
-09:21:20.699 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 45
-09:21:20.699 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 3
-09:21:20.699 [main] INFO .size vorobyev.day4task1.entity.Array - Returned size (10)
-09:21:20.700 [main] INFO .fromFile vorobyev.day4task1.scanner.ArrayScanner - Read array from console with size 10
-09:21:20.701 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 98
-09:21:20.702 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 75
-09:21:20.702 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 86
-09:21:20.702 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 15
-09:21:20.702 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 38
-09:21:20.702 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 84
-09:21:20.702 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 80
-09:21:20.703 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 39
-09:21:20.703 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 52
-09:21:20.703 [main] INFO .add vorobyev.day4task1.entity.Array - Added value 66
-09:21:34.066 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 9
-09:21:34.069 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 12
-09:21:34.069 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 44
-09:21:34.069 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 22
-09:21:34.069 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value -14
-09:21:34.069 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 56
-09:21:34.070 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 25
-09:21:34.070 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value -1
-09:21:34.070 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 45
-09:21:34.070 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 3
-09:21:34.071 [main] INFO  vorobyev.day4task1.entity.Array.size - Returned size (10)
-09:21:34.071 [main] INFO  vorobyev.day4task1.scanner.ArrayScanner.fromFile - Read array from console with size 10
-09:21:34.073 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 56
-09:21:34.073 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 19
-09:21:34.073 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 34
-09:21:34.073 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 17
-09:21:34.074 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 93
-09:21:34.074 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 40
-09:21:34.074 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 85
-09:21:34.074 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 76
-09:21:34.074 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 34
-09:21:34.074 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 74
-09:21:46.695 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 9
-09:21:46.697 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 12
-09:21:46.698 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 44
-09:21:46.698 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 22
-09:21:46.698 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value -14
-09:21:46.698 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 56
-09:21:46.699 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 25
-09:21:46.699 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value -1
-09:21:46.699 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 45
-09:21:46.699 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 3
-09:21:46.700 [main] INFO  vorobyev.day4task1.entity.Array.size - Returned size (10)
-09:21:46.700 [main] INFO  vorobyev.day4task1.scanner.ArrayScanner.fromFile - Read array from console with size 10
-09:21:46.701 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 19
-09:21:46.702 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 0
-09:21:46.702 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 22
-09:21:46.702 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 16
-09:21:46.702 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 47
-09:21:46.702 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 56
-09:21:46.702 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 16
-09:21:46.702 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 46
-09:21:46.703 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 50
-09:21:46.703 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 33
-09:22:15.148 [main] INFO  entity.Array.add - Added value 9
-09:22:15.151 [main] INFO  entity.Array.add - Added value 12
-09:22:15.152 [main] INFO  entity.Array.add - Added value 44
-09:22:15.152 [main] INFO  entity.Array.add - Added value 22
-09:22:15.152 [main] INFO  entity.Array.add - Added value -14
-09:22:15.152 [main] INFO  entity.Array.add - Added value 56
-09:22:15.152 [main] INFO  entity.Array.add - Added value 25
-09:22:15.153 [main] INFO  entity.Array.add - Added value -1
-09:22:15.153 [main] INFO  entity.Array.add - Added value 45
-09:22:15.153 [main] INFO  entity.Array.add - Added value 3
-09:22:15.154 [main] INFO  entity.Array.size - Returned size (10)
-09:22:15.154 [main] INFO  scanner.ArrayScanner.fromFile - Read array from console with size 10
-09:22:15.156 [main] INFO  entity.Array.add - Added value 48
-09:22:15.157 [main] INFO  entity.Array.add - Added value 73
-09:22:15.157 [main] INFO  entity.Array.add - Added value 25
-09:22:15.157 [main] INFO  entity.Array.add - Added value 20
-09:22:15.157 [main] INFO  entity.Array.add - Added value 53
-09:22:15.157 [main] INFO  entity.Array.add - Added value 14
-09:22:15.157 [main] INFO  entity.Array.add - Added value 50
-09:22:15.158 [main] INFO  entity.Array.add - Added value 28
-09:22:15.158 [main] INFO  entity.Array.add - Added value 20
-09:22:15.158 [main] INFO  entity.Array.add - Added value 6
-09:22:38.887 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 9
-09:22:38.890 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 12
-09:22:38.890 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 44
-09:22:38.890 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 22
-09:22:38.891 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value -14
-09:22:38.891 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 56
-09:22:38.891 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 25
-09:22:38.891 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value -1
-09:22:38.892 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 45
-09:22:38.892 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 3
-09:22:38.892 [main] INFO  vorobyev.day4task1.entity.Array.size - Returned size (10)
-09:22:38.892 [main] INFO  vorobyev.day4task1.scanner.ArrayScanner.fromFile - Read array from console with size 10
-09:22:38.894 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 22
-09:22:38.894 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 69
-09:22:38.895 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 42
-09:22:38.895 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 16
-09:22:38.895 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 80
-09:22:38.895 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 58
-09:22:38.895 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 16
-09:22:38.895 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 48
-09:22:38.895 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 55
-09:22:38.896 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 25
+20:08:19.452 [main] ERROR vorobyev.day5.service.TextServiceTest.beforeMethod - Text file (res/day4/text.txt) not found!
+20:08:19.458 [main] ERROR vorobyev.day5.service.TextServiceTest.beforeMethod - Text file (res/day4/text.txt) not found!
+20:08:19.459 [main] ERROR vorobyev.day5.service.TextServiceTest.beforeMethod - Text file (res/day4/text.txt) not found!
+20:08:19.460 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Text was split on 1 words
+20:08:19.461 [main] INFO  vorobyev.day5.service.TextService.replaceSymbolInWords - Successful replace!
+20:08:19.463 [main] ERROR vorobyev.day5.service.TextServiceTest.beforeMethod - Text file (res/day4/text.txt) not found!
+20:08:19.465 [main] ERROR vorobyev.day5.service.TextServiceTest.beforeMethod - Text file (res/day4/text.txt) not found!
+20:08:41.703 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Text was split on 1 words
+20:08:41.706 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word This to H
+20:08:41.707 [main] INFO  vorobyev.day5.service.TextService.replaceSymbolInWords - Successful replace!
+20:18:14.396 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Text was split on 7 words
+20:18:14.398 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word Thisistesttextfile to H
+20:18:14.399 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word Helloworld to H
+20:18:14.399 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word Java to H
+20:18:14.399 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word oraclesttyepam to H
+20:18:14.399 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word company to H
+20:18:14.400 [main] INFO  vorobyev.day5.service.TextService.replaceSymbolInWords - Successful replace!
+20:28:19.280 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Text was split on 17 words
+20:28:19.283 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word This to H
+20:28:19.283 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word test to H
+20:28:19.284 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word text to H
+20:28:19.284 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word file to H
+20:28:19.284 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word Hello to H
+20:28:19.285 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word world to H
+20:28:19.285 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word Java to H
+20:28:19.285 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word oracle to H
+20:28:19.285 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word stty to H
+20:28:19.285 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word epam to H
+20:28:19.286 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word company to H
+20:28:19.286 [main] INFO  vorobyev.day5.service.TextService.replaceSymbolInWords - Successful replace!
+20:29:32.815 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Text was split on 17 words
+20:29:32.818 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word This to H
+20:29:32.818 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word test to H
+20:29:32.819 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word text to H
+20:29:32.819 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word file to H
+20:29:32.819 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word Hello to H
+20:29:32.820 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word world to H
+20:29:32.820 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word Java to H
+20:29:32.820 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word oracle to H
+20:29:32.821 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word stty to H
+20:29:32.821 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word epam to H
+20:29:32.821 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word company to H
+20:29:32.822 [main] INFO  vorobyev.day5.service.TextService.replaceSymbolInWords - Successful replace!
+20:29:48.791 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Text was split on 17 words
+20:29:48.803 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word This to H
+20:29:48.804 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word test to H
+20:29:48.805 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word text to H
+20:29:48.806 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word file to H
+20:29:48.807 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word Hello to H
+20:29:48.808 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word world to H
+20:29:48.808 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word Java to H
+20:29:48.809 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word oracle to H
+20:29:48.810 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word stty to H
+20:29:48.811 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word epam to H
+20:29:48.812 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Replaced 3 symbol in word company to H
+20:29:48.814 [main] INFO  vorobyev.day5.service.TextService.replaceSymbolInWords - Successful replace!
+20:40:15.442 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 3
+20:40:15.444 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 4
+20:40:15.445 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 7
+20:40:15.445 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 11
+20:40:15.445 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 12
+20:40:15.445 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 16
+20:40:15.446 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 17
+20:40:15.446 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 21
+20:40:15.446 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 22
+20:40:15.446 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 23
+20:40:15.447 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 27
+20:40:15.447 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 29
+20:40:15.447 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 33
+20:40:15.447 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 35
+20:40:15.447 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 36
+20:40:15.448 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 38
+20:40:15.448 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 40
+20:40:15.448 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 41
+20:40:15.448 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 42
+20:40:15.448 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 43
+20:40:15.448 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 44
+20:40:15.448 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 47
+20:40:15.448 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 51
+20:40:15.449 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 55
+20:40:15.449 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 56
+20:40:15.449 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 59
+20:40:15.449 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 61
+20:40:15.449 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 65
+20:40:15.450 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 66
+20:40:15.450 [main] INFO  vorobyev.day5.service.TextService.replaceSymbolInWords - Successful replace!
+20:41:22.054 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 3
+20:41:35.954 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 4
+20:41:49.804 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 7
+20:41:50.369 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 11
+20:41:50.529 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 12
+20:41:51.122 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 16
+20:41:51.266 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 17
+20:41:51.837 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 21
+20:41:52.001 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 22
+20:41:52.152 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 23
+20:42:25.812 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 27
+20:42:37.999 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 29
+20:43:48.076 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 33
+20:44:08.697 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 35
+20:44:10.338 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 36
+20:44:18.105 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 38
+20:44:37.250 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 40
+20:44:37.251 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 41
+20:44:37.252 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 42
+20:44:37.253 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 43
+20:44:37.254 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 44
+20:44:37.254 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 47
+20:44:37.255 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 51
+20:44:37.256 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 55
+20:44:37.256 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 56
+20:44:37.257 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 59
+20:44:37.258 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 61
+20:44:37.259 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 65
+20:44:37.259 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 66
+20:44:37.261 [main] INFO  vorobyev.day5.service.TextService.replaceSymbolInWords - Successful replace!
+20:44:43.937 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 3
+20:44:44.108 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 4
+20:44:44.512 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 7
+20:44:45.091 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 11
+20:44:45.238 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 12
+20:44:45.788 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 16
+20:44:45.967 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 17
+20:44:46.524 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 21
+20:44:46.677 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 22
+20:44:46.825 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 23
+20:44:47.397 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 27
+20:44:49.684 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 29
+20:44:50.244 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 33
+20:44:52.695 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 35
+20:44:56.133 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 36
+20:45:34.316 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 38
+20:45:34.317 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 40
+20:45:34.318 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 41
+20:45:34.319 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 42
+20:45:34.320 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 43
+20:45:34.321 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 44
+20:45:34.322 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 47
+20:45:34.322 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 51
+20:45:34.323 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 55
+20:45:34.324 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 56
+20:45:34.324 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 59
+20:45:34.325 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 61
+20:45:34.326 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 65
+20:45:34.327 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 66
+20:45:34.329 [main] INFO  vorobyev.day5.service.TextService.replaceSymbolInWords - Successful replace!
+20:45:59.558 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 3
+20:45:59.561 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 4
+20:45:59.561 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 7
+20:45:59.561 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 11
+20:45:59.562 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 12
+20:45:59.562 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 16
+20:45:59.563 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 17
+20:45:59.563 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 21
+20:45:59.563 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 22
+20:45:59.564 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 23
+20:45:59.564 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 27
+20:45:59.564 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 29
+20:45:59.564 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 33
+20:45:59.564 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 35
+20:45:59.564 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 36
+20:45:59.565 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 40
+20:45:59.565 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 41
+20:45:59.565 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 42
+20:45:59.565 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 43
+20:45:59.565 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 44
+20:45:59.565 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 48
+20:45:59.565 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 51
+20:45:59.566 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 55
+20:45:59.566 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 56
+20:45:59.566 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 60
+20:45:59.566 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 61
+20:45:59.566 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 65
+20:45:59.567 [main] INFO  vorobyev.day5.service.TextService.replaceSymbolInWords - Successful replace!
+20:46:02.676 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 3
+20:46:02.679 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 4
+20:46:02.679 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 7
+20:46:02.679 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 11
+20:46:02.680 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 12
+20:46:02.680 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 16
+20:46:02.680 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 17
+20:46:02.680 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 21
+20:46:02.681 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 22
+20:46:02.681 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 23
+20:46:02.681 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 27
+20:46:02.681 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 29
+20:46:02.682 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 33
+20:46:02.682 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 35
+20:46:02.682 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 36
+20:46:02.682 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 40
+20:46:02.682 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 41
+20:46:02.682 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 42
+20:46:02.682 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 43
+20:46:02.683 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 44
+20:46:02.683 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 48
+20:46:02.683 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 51
+20:46:02.683 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 55
+20:46:02.683 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 56
+20:46:02.683 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 60
+20:46:02.684 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 61
+20:46:02.684 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 65
+20:46:02.685 [main] INFO  vorobyev.day5.service.TextService.replaceSymbolInWords - Successful replace!
+20:47:18.449 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 3
+20:47:18.452 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 4
+20:47:18.453 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 7
+20:47:18.453 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 11
+20:47:18.453 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 12
+20:47:18.453 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 16
+20:47:18.454 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 17
+20:47:18.454 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 21
+20:47:18.454 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 22
+20:47:18.454 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 23
+20:47:18.454 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 27
+20:47:18.455 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 29
+20:47:18.455 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 33
+20:47:18.455 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 35
+20:47:18.455 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 36
+20:47:18.455 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 40
+20:47:18.455 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 41
+20:47:18.455 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 42
+20:47:18.455 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 43
+20:47:18.456 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 44
+20:47:18.456 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 48
+20:47:18.456 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 51
+20:47:18.456 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 55
+20:47:18.456 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 56
+20:47:18.456 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 60
+20:47:18.457 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 61
+20:47:18.457 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 65
+20:47:18.458 [main] INFO  vorobyev.day5.service.TextService.replaceSymbolInWords - Successful replace!
+20:47:18.467 [main] INFO  vorobyev.day5.service.TextService.replaceWrongSymbol - Successful replace! (xt -> xU)
+20:48:44.834 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 3
+20:48:44.837 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 4
+20:48:44.838 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 7
+20:48:44.838 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 11
+20:48:44.838 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 12
+20:48:44.838 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 16
+20:48:44.839 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 17
+20:48:44.839 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 21
+20:48:44.839 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 22
+20:48:44.840 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 23
+20:48:44.840 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 27
+20:48:44.840 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 29
+20:48:44.840 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 33
+20:48:44.841 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 35
+20:48:44.841 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 36
+20:48:44.841 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 40
+20:48:44.841 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 41
+20:48:44.841 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 42
+20:48:44.841 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 43
+20:48:44.841 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 44
+20:48:44.841 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 48
+20:48:44.842 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 51
+20:48:44.842 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 55
+20:48:44.842 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 56
+20:48:44.842 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 60
+20:48:44.842 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 61
+20:48:44.842 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 65
+20:48:44.843 [main] INFO  vorobyev.day5.service.TextService.replaceSymbolInWords - Successful replace!
+20:48:44.847 [main] INFO  vorobyev.day5.service.TextService.replaceWordWithLengthBySubstring - Successful replace!
+20:48:44.855 [main] INFO  vorobyev.day5.service.TextService.replaceWrongSymbol - Successful replace! (xt -> xU)
+20:50:35.586 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 3
+20:50:35.589 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 4
+20:50:35.589 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 7
+20:50:35.590 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 11
+20:50:35.590 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 12
+20:50:35.590 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 16
+20:50:35.590 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 17
+20:50:35.591 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 21
+20:50:35.591 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 22
+20:50:35.591 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 23
+20:50:35.591 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 27
+20:50:35.592 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 29
+20:50:35.592 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 33
+20:50:35.592 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 35
+20:50:35.592 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 36
+20:50:35.592 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 40
+20:50:35.592 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 41
+20:50:35.593 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 42
+20:50:35.593 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 43
+20:50:35.593 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 44
+20:50:35.593 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 48
+20:50:35.593 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 51
+20:50:35.593 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 55
+20:50:35.593 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 56
+20:50:35.593 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 60
+20:50:35.594 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Pos counter was set to zero at pos 61
+20:50:35.594 [main] DEBUG vorobyev.day5.service.TextService.replaceSymbolInWords - Symbol was replaced at pos 65
+20:50:35.594 [main] INFO  vorobyev.day5.service.TextService.replaceSymbolInWords - Successful replace!
+20:50:35.599 [main] INFO  vorobyev.day5.service.TextService.replaceWordWithLengthBySubstring - Successful replace!
+20:50:35.607 [main] INFO  vorobyev.day5.service.TextService.replaceWrongSymbol - Successful replace! (xt -> xU)
+02:53:04.831 [main] INFO  vorobyev.day4task2.creator.JaggedRandomGenerator.generate - Generated with size 7
+02:53:04.840 [main] DEBUG vorobyev.day4task2.comparator.ComparatorBySum.compare - Sum1: 91 Sum2: 96
+02:53:04.840 [main] DEBUG vorobyev.day4task2.comparator.ComparatorBySum.compare - Sum1: 96 Sum2: 27
+02:53:04.840 [main] DEBUG vorobyev.day4task2.comparator.ComparatorBySum.compare - Sum1: 96 Sum2: 48
+02:53:04.840 [main] DEBUG vorobyev.day4task2.comparator.ComparatorBySum.compare - Sum1: 96 Sum2: 75
+02:53:04.841 [main] DEBUG vorobyev.day4task2.comparator.ComparatorBySum.compare - Sum1: 96 Sum2: 56
+02:53:04.841 [main] DEBUG vorobyev.day4task2.comparator.ComparatorBySum.compare - Sum1: 96 Sum2: 113
+02:53:04.842 [main] DEBUG vorobyev.day4task2.comparator.ComparatorBySum.compare - Sum1: 91 Sum2: 27
+02:53:04.842 [main] DEBUG vorobyev.day4task2.comparator.ComparatorBySum.compare - Sum1: 91 Sum2: 48
+02:53:04.842 [main] DEBUG vorobyev.day4task2.comparator.ComparatorBySum.compare - Sum1: 91 Sum2: 75
+02:53:04.843 [main] DEBUG vorobyev.day4task2.comparator.ComparatorBySum.compare - Sum1: 91 Sum2: 56
+02:53:04.843 [main] DEBUG vorobyev.day4task2.comparator.ComparatorBySum.compare - Sum1: 91 Sum2: 96
+02:53:04.843 [main] DEBUG vorobyev.day4task2.comparator.ComparatorBySum.compare - Sum1: 96 Sum2: 113
+02:53:04.844 [main] DEBUG vorobyev.day4task2.comparator.ComparatorBySum.compare - Sum1: 27 Sum2: 48
+02:53:04.844 [main] DEBUG vorobyev.day4task2.comparator.ComparatorBySum.compare - Sum1: 48 Sum2: 75
+02:53:04.844 [main] DEBUG vorobyev.day4task2.comparator.ComparatorBySum.compare - Sum1: 75 Sum2: 56
+02:53:04.845 [main] DEBUG vorobyev.day4task2.comparator.ComparatorBySum.compare - Sum1: 75 Sum2: 91
+02:53:04.845 [main] DEBUG vorobyev.day4task2.comparator.ComparatorBySum.compare - Sum1: 91 Sum2: 96
+02:53:04.845 [main] DEBUG vorobyev.day4task2.comparator.ComparatorBySum.compare - Sum1: 96 Sum2: 113
+02:53:04.846 [main] DEBUG vorobyev.day4task2.comparator.ComparatorBySum.compare - Sum1: 27 Sum2: 48
+02:53:04.846 [main] DEBUG vorobyev.day4task2.comparator.ComparatorBySum.compare - Sum1: 48 Sum2: 56
+02:53:04.846 [main] DEBUG vorobyev.day4task2.comparator.ComparatorBySum.compare - Sum1: 56 Sum2: 75
+02:53:04.847 [main] DEBUG vorobyev.day4task2.comparator.ComparatorBySum.compare - Sum1: 75 Sum2: 91
+02:53:04.847 [main] DEBUG vorobyev.day4task2.comparator.ComparatorBySum.compare - Sum1: 91 Sum2: 96
+02:53:04.848 [main] DEBUG vorobyev.day4task2.comparator.ComparatorBySum.compare - Sum1: 96 Sum2: 113
+02:53:04.848 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 24 max2: 25
+02:53:04.849 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 25 max2: 21
+02:53:04.849 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 25 max2: 29
+02:53:04.850 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 29 max2: 24
+02:53:04.850 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 29 max2: 20
+02:53:04.851 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 29 max2: 25
+02:53:04.851 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 24 max2: 21
+02:53:04.852 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 24 max2: 25
+02:53:04.852 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 25 max2: 24
+02:53:04.852 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 25 max2: 20
+02:53:04.853 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 25 max2: 25
+02:53:04.853 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 25 max2: 29
+02:53:04.854 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 21 max2: 24
+02:53:04.854 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 24 max2: 24
+02:53:04.854 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 24 max2: 20
+02:53:04.855 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 24 max2: 25
+02:53:04.855 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 25 max2: 25
+02:53:04.856 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 25 max2: 29
+02:53:04.856 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 21 max2: 24
+02:53:04.857 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 24 max2: 20
+02:53:04.857 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 24 max2: 24
+02:53:04.857 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 24 max2: 25
+02:53:04.857 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 25 max2: 25
+02:53:04.857 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 25 max2: 29
+02:53:04.858 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 21 max2: 20
+02:53:04.858 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 21 max2: 24
+02:53:04.858 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 24 max2: 24
+02:53:04.859 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 24 max2: 25
+02:53:04.859 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 25 max2: 25
+02:53:04.859 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 25 max2: 29
+02:53:04.860 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 20 max2: 21
+02:53:04.860 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 21 max2: 24
+02:53:04.861 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 24 max2: 24
+02:53:04.861 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 24 max2: 25
+02:53:04.862 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 25 max2: 25
+02:53:04.862 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMax.compare - max1: 25 max2: 29
+02:53:04.862 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMin.compare - min1: 2 min2: 9
+02:53:04.863 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMin.compare - min1: 2 min2: 1
+02:53:04.863 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMin.compare - min1: 1 min2: 2
+02:53:04.863 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMin.compare - min1: 1 min2: 6
+02:53:04.864 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMin.compare - min1: 1 min2: 0
+02:53:04.864 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMin.compare - min1: 0 min2: 4
+02:53:04.864 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMin.compare - min1: 9 min2: 2
+02:53:04.865 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMin.compare - min1: 2 min2: 2
+02:53:04.865 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMin.compare - min1: 2 min2: 6
+02:53:04.865 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMin.compare - min1: 2 min2: 1
+02:53:04.865 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMin.compare - min1: 1 min2: 4
+02:53:04.865 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMin.compare - min1: 1 min2: 0
+02:53:04.865 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMin.compare - min1: 9 min2: 2
+02:53:04.866 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMin.compare - min1: 2 min2: 6
+02:53:04.866 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMin.compare - min1: 2 min2: 2
+02:53:04.866 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMin.compare - min1: 2 min2: 4
+02:53:04.866 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMin.compare - min1: 2 min2: 1
+02:53:04.866 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMin.compare - min1: 1 min2: 0
+02:53:04.866 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMin.compare - min1: 9 min2: 6
+02:53:04.867 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMin.compare - min1: 6 min2: 2
+02:53:04.867 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMin.compare - min1: 2 min2: 4
+02:53:04.867 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMin.compare - min1: 2 min2: 2
+02:53:04.867 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMin.compare - min1: 2 min2: 1
+02:53:04.867 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMin.compare - min1: 1 min2: 0
+02:53:04.867 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMin.compare - min1: 9 min2: 6
+02:53:04.868 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMin.compare - min1: 6 min2: 4
+02:53:04.868 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMin.compare - min1: 4 min2: 2
+02:53:04.869 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMin.compare - min1: 2 min2: 2
+02:53:04.869 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMin.compare - min1: 2 min2: 1
+02:53:04.869 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMin.compare - min1: 1 min2: 0

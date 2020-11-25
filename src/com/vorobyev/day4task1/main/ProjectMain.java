@@ -4,7 +4,7 @@ import com.vorobyev.day4task1.entity.Array;
 import com.vorobyev.day4task1.report.ArrayReport;
 import com.vorobyev.day4task1.report.ExceptionReport;
 import com.vorobyev.day4task1.scanner.ArrayScanner;
-import com.vorobyev.day4task1.util.ArrayGenerator;
+import com.vorobyev.day4task1.creator.ArrayGenerator;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 

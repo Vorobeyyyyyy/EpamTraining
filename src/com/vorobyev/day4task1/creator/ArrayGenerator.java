@@ -1,6 +1,7 @@
-package com.vorobyev.day4task1.util;
+package com.vorobyev.day4task1.creator;
 
 import com.vorobyev.day4task1.entity.Array;
+import com.vorobyev.day4task1.util.ProjectRandom;
 
 import java.util.Random;
 

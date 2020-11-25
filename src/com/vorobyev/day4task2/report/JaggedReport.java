@@ -3,6 +3,9 @@ package com.vorobyev.day4task2.report;
 import java.util.Arrays;
 
 public class JaggedReport {
+    public void source(int[][] array){
+        System.out.println("Source array: " + Arrays.deepToString(array));
+    }
     public void sortedBySum(int[][] array){
         System.out.println("Sorted by sum of all elements: " + Arrays.deepToString(array));
     }
@@ -12,6 +15,5 @@ public class JaggedReport {
     }
     public void sortedByMaxMin(int[][] array){
         System.out.println("Sorted by min element of all elements: " + Arrays.deepToString(array));
-
     }
 }

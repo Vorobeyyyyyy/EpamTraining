@@ -1,8 +1,13 @@
 package com.vorobyev.day4task2.comparator;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 import java.util.Comparator;
 
 public class ComparatorByMaxMax implements Comparator<int[]> {
+    private static final Logger logger = LogManager.getLogger();
+
     @Override
     public int compare(int[] array1, int[] array2) {
         int max1 = array1[0];
@@ -17,6 +22,7 @@ public class ComparatorByMaxMax implements Comparator<int[]> {
                 max2 = value;
             }
         }
+        logger.debug("max1: {} max2: {}", max1, max2);
         return max1 - max2;
     }
 }
