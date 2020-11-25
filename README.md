@@ -5,10 +5,10 @@ Alexandr Vorobyev
 1.1 [Task 1](#1.1) <br>
 1.2 [Task 2](#1.2) <br>
 2. [Day 2](#2) <br>
-2. [Day 3](#3) <br>
-2. [Day 4](#3) <br>
-2.1 [Task 1](#2.1) <br>
-2.2 [Task 2](#2.2) <br>
+3. [Day 3](#3) <br>
+4. [Day 4](#4) <br>
+4.1 [Task 1](#4.1) <br>
+4.2 [Task 2](#4.2) <br>
 ## Tasks:
 ### Day 1 <a name = "1"></a>
 #### Task 1 <a name = "1.1"></a>
@@ -30,15 +30,15 @@ Alexandr Vorobyev
 [Test](https://github.com/Vorobeyyyyyy/EpamTraining/tree/master/test/com/vorobyev/day2)
 
 ---
-### Day 3 <a name = "2"></a>
+### Day 3 <a name = "3"></a>
 
 Создать класс Мяч. Создать класс Корзина. Наполнить корзину мячиками. Определить вес мячиков в корзине и количество синих мячиков. <br>
 [Solution](https://github.com/Vorobeyyyyyy/EpamTraining/tree/master/src/com/vorobyev/day3) <br>
 [Test](https://github.com/Vorobeyyyyyy/EpamTraining/tree/master/test/com/vorobyev/day3)
 
 ---
-### Day 4 <a name = "1"></a>
-#### Task 1 <a name = "1.1"></a>
+### Day 4 <a name = "4"></a>
+#### Task 1 <a name = "4.1"></a>
 
 Создание типа Array, который является классом оболочкой над массивом целого типа. В данном типе должны быть реализованы конструкторы (позволяющие несколькими способами создавать объекты типа), get-ы, set-ы и переопределенные методы класса Object (toString(), equals(), hasCode()).
 Программа должна иметь следующие возможности:
@@ -52,7 +52,7 @@ Alexandr Vorobyev
 
 [Solution](https://github.com/Vorobeyyyyyy/EpamTraining/tree/master/src/com/vorobyev/day4task1) <br>
 [Test](https://github.com/Vorobeyyyyyy/EpamTraining/tree/master/test/com/vorobyev/day4task1)
-#### Task 2 <a name = "1.2"></a>
+#### Task 2 <a name = "4.2"></a>
 
 Дан непрямоугольный целочисленный массив (jagged array). Реализовать алгоритм "пузырьковой" сортировки, таким образом, чтобы была возможность упорядочить строки матрицы:
 * в порядке возрастания (убывания) сумм элементов строк матрицы;
