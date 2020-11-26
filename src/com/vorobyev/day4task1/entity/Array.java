@@ -45,14 +45,14 @@ public class Array {
             throw new ArrayException("Index out of bounds");
         }
         values[index] = value;
-        logger.info("Set in {} value {}", index, value);
+        logger.debug("Set in {} value {}", index, value);
     }
 
     public void add(int value){
         values = Arrays.copyOf(values, values.length + 1);
         int lastIndex = values.length - 1;
         values[lastIndex] = value;
-        logger.info("Added value {}", value);
+        logger.debug("Added value {}", value);
     }
 
     public int size(){

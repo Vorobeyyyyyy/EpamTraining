@@ -380,3 +380,113 @@
 02:53:04.869 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMin.compare - min1: 2 min2: 2
 02:53:04.869 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMin.compare - min1: 2 min2: 1
 02:53:04.869 [main] DEBUG vorobyev.day4task2.comparator.ComparatorByMaxMin.compare - min1: 1 min2: 0
+15:31:09.399 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 9
+15:31:09.405 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 12
+15:31:09.406 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 44
+15:31:09.406 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 22
+15:31:09.407 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value -14
+15:31:09.407 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 56
+15:31:09.408 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 25
+15:31:09.408 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value -1
+15:31:09.408 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 45
+15:31:09.409 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 3
+15:31:09.409 [main] INFO  vorobyev.day4task1.entity.Array.size - Returned size (10)
+15:31:09.410 [main] INFO  vorobyev.day4task1.scanner.ArrayScanner.fromFile - Read array from file with size 10
+15:31:09.412 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 45
+15:31:09.413 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 48
+15:31:09.414 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 43
+15:31:09.414 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 32
+15:31:09.415 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 98
+15:31:09.415 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 1
+15:31:09.416 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 99
+15:31:09.416 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 34
+15:31:09.416 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 80
+15:31:09.417 [main] INFO  vorobyev.day4task1.entity.Array.add - Added value 86
+15:32:04.534 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 9
+15:32:04.537 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 12
+15:32:04.537 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 44
+15:32:04.538 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 22
+15:32:04.538 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value -14
+15:32:04.538 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 56
+15:32:04.539 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 25
+15:32:04.539 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value -1
+15:32:04.540 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 45
+15:32:04.540 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 3
+15:32:04.541 [main] INFO  vorobyev.day4task1.entity.Array.size - Returned size (10)
+15:32:04.542 [main] INFO  vorobyev.day4task1.scanner.ArrayScanner.fromFile - Read array from file with size 10
+15:32:04.544 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 65
+15:32:04.544 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 85
+15:32:04.544 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 62
+15:32:04.545 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 32
+15:32:04.545 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 65
+15:32:04.546 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 94
+15:32:04.547 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 82
+15:32:04.547 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 38
+15:32:04.547 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 41
+15:32:04.548 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 98
+15:32:36.447 [main] ERROR vorobyev.day4task1.scanner.ArrayScanner.fromFile - File not found! (res\day4\arr2ay.txt (Не удается найти указанный файл))
+15:32:36.456 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 74
+15:32:36.457 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 93
+15:32:36.457 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 26
+15:32:36.457 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 18
+15:32:36.458 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 77
+15:32:36.458 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 99
+15:32:36.459 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 96
+15:32:36.459 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 14
+15:32:36.459 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 79
+15:32:36.460 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 95
+15:33:38.266 [main] ERROR vorobyev.day4task1.scanner.ArrayScanner.fromFile - res\day4\arr2ay.txt (Не удается найти указанный файл)
+15:33:38.276 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 68
+15:33:38.277 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 34
+15:33:38.277 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 56
+15:33:38.278 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 26
+15:33:38.278 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 46
+15:33:38.278 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 18
+15:33:38.279 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 50
+15:33:38.280 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 26
+15:33:38.281 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 47
+15:33:38.281 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 60
+15:34:18.765 [main] ERROR vorobyev.day4task1.scanner.ArrayScanner.fromFile - res\day4\arr2ay.txt (Не удается найти указанный файл)
+15:34:25.007 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 24
+15:34:25.010 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 42
+15:34:25.011 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 86
+15:34:25.012 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 16
+15:34:25.014 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 17
+15:34:25.015 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 26
+15:34:25.017 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 70
+15:34:25.019 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 45
+15:34:25.020 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 40
+15:34:25.022 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 33
+15:35:07.662 [main] ERROR vorobyev.day4task1.scanner.ArrayScanner.fromConsole - null
+15:35:07.671 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 83
+15:35:07.672 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 58
+15:35:07.672 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 96
+15:35:07.673 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 84
+15:35:07.674 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 12
+15:35:07.674 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 73
+15:35:07.675 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 5
+15:35:07.675 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 27
+15:35:07.675 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 6
+15:35:07.676 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 33
+15:35:57.557 [main] ERROR vorobyev.day4task1.scanner.ArrayScanner.fromConsole - null
+15:36:10.363 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 45
+15:36:10.363 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 39
+15:36:10.364 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 10
+15:36:10.364 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 13
+15:36:10.365 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 75
+15:36:10.366 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 32
+15:36:10.367 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 89
+15:36:10.367 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 51
+15:36:10.368 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 25
+15:36:10.368 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 82
+15:36:50.128 [main] ERROR vorobyev.day4task1.scanner.ArrayScanner.fromConsole - java.util.InputMismatchExceptionnull
+15:36:50.141 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 99
+15:36:50.142 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 84
+15:36:50.142 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 68
+15:36:50.143 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 86
+15:36:50.143 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 13
+15:36:50.144 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 58
+15:36:50.144 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 96
+15:36:50.145 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 12
+15:36:50.145 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 72
+15:36:50.146 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 16
