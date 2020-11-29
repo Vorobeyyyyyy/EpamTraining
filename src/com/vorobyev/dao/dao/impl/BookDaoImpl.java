@@ -6,7 +6,6 @@ import com.vorobyev.dao.entity.Genre;
 import com.vorobyev.dao.exception.DaoException;
 import com.vorobyev.dao.storage.BookStorage;
 
-import java.util.HashSet;
 import java.util.Optional;
 import java.util.Set;
 import java.util.function.Predicate;

@@ -5,7 +5,6 @@ import com.vorobyev.dao.dao.impl.BookDaoImpl;
 import com.vorobyev.dao.entity.Book;
 import com.vorobyev.dao.entity.Genre;
 import com.vorobyev.dao.exception.DaoException;
-import com.vorobyev.day4task1.exception.ArrayScannerException;
 import org.apache.logging.log4j.Level;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
