@@ -13,22 +13,20 @@ import java.util.Scanner;
 public class ArrayScanner {
     private static final Logger logger = LogManager.getLogger();
 
-    public Array fromConsole() throws ArrayScannerException{
+    public Array fromConsole() throws ArrayScannerException {
         Scanner consoleScanner = new Scanner(System.in);
         Array array = new Array();
-        int size = 0;
+        int size;
         try {
             size = consoleScanner.nextInt();
             while (size-- != 0) {
                 int value = consoleScanner.nextInt();
                 array.add(value);
             }
-        }
-        catch (IllegalStateException | NoSuchElementException exception){
+        } catch (IllegalStateException | NoSuchElementException exception) {
             logger.error("{} : {}", exception, exception.getMessage());
             throw new ArrayScannerException(exception.getMessage());
-        }
-        finally {
+        } finally {
             consoleScanner.close();
         }
         logger.info("Read array from console with size {}", size);
@@ -41,22 +39,19 @@ public class ArrayScanner {
         Array array = new Array();
         try {
             fileScanner = new Scanner(file);
-        }
-        catch (FileNotFoundException exception){
+        } catch (FileNotFoundException exception) {
             logger.error(exception.getMessage());
             throw new ArrayScannerException(exception.getMessage());
         }
 
-        try{
+        try {
             while (fileScanner.hasNextInt()) {
                 array.add(fileScanner.nextInt());
             }
-        }
-        catch (IllegalStateException | NoSuchElementException exception){
+        } catch (IllegalStateException | NoSuchElementException exception) {
             logger.error("{} : {}", exception, exception.getMessage());
             throw new ArrayScannerException(exception.getMessage());
-        }
-        finally {
+        } finally {
             fileScanner.close();
         }
         logger.info("Read array from file with size {}", array.size());
