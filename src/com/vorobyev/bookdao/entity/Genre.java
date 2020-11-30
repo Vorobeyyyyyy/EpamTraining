@@ -1,6 +1,6 @@
-package com.vorobyev.dao.entity;
+package com.vorobyev.bookdao.entity;
 
-public enum Genre {
+public enum Genre{
     CLASSIC,
     COMIC,
     CRIME,

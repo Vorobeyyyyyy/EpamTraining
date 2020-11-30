@@ -490,3 +490,11 @@
 15:36:50.145 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 12
 15:36:50.145 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 72
 15:36:50.146 [main] DEBUG vorobyev.day4task1.entity.Array.add - Added value 16
+16:56:22.995 [main] INFO  vorobyev.bookdao.validator.BookValidator.isLabelValid - Label Another book valid: false
+16:56:22.999 [main] INFO  vorobyev.bookdao.validator.BookValidator.isPublishYearValid - Publish year: 1876 valid: false
+16:56:23.000 [main] INFO  vorobyev.bookdao.validator.BookValidator.isAuthorNameValid - Author name: Lewis Carroll valid: false
+16:56:23.001 [main] INFO  bookdao.service.impl.BookServiceImpl.addToDao - Book (Book{bookId=5, bookLabel='Another book', authors=[Lewis Carroll], publishYear=1876, genres=[]}) has been added to Dao
+17:01:29.287 [main] INFO  vorobyev.bookdao.validator.BookValidator.isLabelValid - Label Another book valid: false
+17:01:29.290 [main] INFO  vorobyev.bookdao.validator.BookValidator.isPublishYearValid - Publish year: 1876 valid: false
+17:01:29.292 [main] INFO  vorobyev.bookdao.validator.BookValidator.isAuthorNameValid - Author name: Lewis Carroll valid: false
+17:01:29.292 [main] INFO  bookdao.service.impl.BookServiceImpl.addToDao - Book (Book{bookId=5, bookLabel='Another book', authors=[Lewis Carroll], publishYear=1876, genres=[]}) has been added to Dao

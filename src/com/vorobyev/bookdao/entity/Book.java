@@ -1,6 +1,6 @@
-package com.vorobyev.dao.entity;
+package com.vorobyev.bookdao.entity;
 
-import com.vorobyev.dao.util.IdGenerator;
+import com.vorobyev.bookdao.util.IdGenerator;
 
 import java.util.EnumSet;
 import java.util.HashSet;

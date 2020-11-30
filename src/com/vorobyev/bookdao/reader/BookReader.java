@@ -1,10 +1,11 @@
-package com.vorobyev.dao.reader;
+package com.vorobyev.bookdao.reader;
 
-import com.vorobyev.dao.dao.BookDao;
-import com.vorobyev.dao.dao.impl.BookDaoImpl;
-import com.vorobyev.dao.entity.Book;
-import com.vorobyev.dao.entity.Genre;
-import com.vorobyev.dao.exception.DaoException;
+import com.vorobyev.bookdao.dao.BookDao;
+import com.vorobyev.bookdao.dao.impl.BookDaoImpl;
+import com.vorobyev.bookdao.entity.Book;
+import com.vorobyev.bookdao.entity.Genre;
+import com.vorobyev.bookdao.exception.DaoException;
+import com.vorobyev.bookdao.storage.BookStorage;
 import org.apache.logging.log4j.Level;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -16,7 +17,7 @@ import java.util.*;
 public class BookReader {
     private static final Logger logger = LogManager.getLogger();
 
-    BookDao bookDao = BookDaoImpl.getInstance();
+    BookStorage bookStorage = BookStorage.getInstance();
 
     private static final int FIELD_COUNT = 4;
     private static final String FIELD_SPLITTER = "\\|";
@@ -40,9 +41,9 @@ public class BookReader {
             while (scanner.hasNextLine()) {
                 String line = scanner.nextLine();
                 Book book = parseBook(line);
-                bookDao.add(book);
+                bookStorage.add(book);
             }
-        } catch (IllegalStateException | NoSuchElementException | IllegalArgumentException | DaoException exception) {
+        } catch (IllegalStateException | NoSuchElementException | IllegalArgumentException exception) {
             logger.log(Level.ERROR, exception.getMessage());
         } finally {
             scanner.close();

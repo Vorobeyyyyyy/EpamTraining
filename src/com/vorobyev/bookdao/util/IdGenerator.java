@@ -1,4 +1,4 @@
-package com.vorobyev.dao.util;
+package com.vorobyev.bookdao.util;
 
 public class IdGenerator {
     private static final IdGenerator instance = new IdGenerator();

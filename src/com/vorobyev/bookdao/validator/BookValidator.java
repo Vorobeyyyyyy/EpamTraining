@@ -1,4 +1,4 @@
-package com.vorobyev.dao.validator;
+package com.vorobyev.bookdao.validator;
 
 import org.apache.logging.log4j.Level;
 import org.apache.logging.log4j.LogManager;

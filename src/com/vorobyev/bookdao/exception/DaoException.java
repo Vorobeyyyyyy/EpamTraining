@@ -1,4 +1,4 @@
-package com.vorobyev.dao.exception;
+package com.vorobyev.bookdao.exception;
 
 public class DaoException extends Exception {
     public DaoException() {
