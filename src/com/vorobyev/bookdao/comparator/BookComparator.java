@@ -55,4 +55,5 @@ public enum BookComparator implements Comparator<Book> {
     public int compare(Book o1, Book o2) {
         return comparator.compare(o1, o2);
     }
+
 }
