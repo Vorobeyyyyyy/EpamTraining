@@ -498,3 +498,20 @@
 17:01:29.290 [main] INFO  vorobyev.bookdao.validator.BookValidator.isPublishYearValid - Publish year: 1876 valid: false
 17:01:29.292 [main] INFO  vorobyev.bookdao.validator.BookValidator.isAuthorNameValid - Author name: Lewis Carroll valid: false
 17:01:29.292 [main] INFO  bookdao.service.impl.BookServiceImpl.addToDao - Book (Book{bookId=5, bookLabel='Another book', authors=[Lewis Carroll], publishYear=1876, genres=[]}) has been added to Dao
+17:17:11.766 [main] INFO  vorobyev.bookdao.validator.BookValidator.isLabelValid - Label Another book valid: false
+17:17:11.770 [main] INFO  vorobyev.bookdao.validator.BookValidator.isPublishYearValid - Publish year: 1876 valid: true
+17:17:11.771 [main] ERROR bookdao.service.impl.BookServiceImplTest.testAddToDao - Impossible exception Invalid publish year
+17:18:12.607 [main] INFO  vorobyev.bookdao.validator.BookValidator.isLabelValid - Label Another book valid: false
+17:18:12.611 [main] INFO  vorobyev.bookdao.validator.BookValidator.isPublishYearValid - Publish year: 1876 valid: true
+17:18:12.611 [main] ERROR bookdao.service.impl.BookServiceImplTest.testAddToDao - Impossible exception Invalid publish year
+17:20:08.343 [main] INFO  vorobyev.bookdao.validator.BookValidator.isLabelValid - Label Another book valid: false
+17:20:08.360 [main] INFO  vorobyev.bookdao.validator.BookValidator.isPublishYearValid - Publish year: 1876 valid: true
+17:20:08.362 [main] ERROR bookdao.service.impl.BookServiceImplTest.testAddToDao - Impossible exception Invalid publish year
+17:20:40.679 [main] INFO  vorobyev.bookdao.validator.BookValidator.isLabelValid - Label Another book valid: true
+17:20:40.683 [main] ERROR bookdao.service.impl.BookServiceImplTest.testAddToDao - Impossible exception Invalid book label
+17:21:25.032 [main] INFO  vorobyev.bookdao.validator.BookValidator.isLabelValid - Label Another book valid: true
+17:21:31.580 [main] ERROR bookdao.service.impl.BookServiceImplTest.testAddToDao - Impossible exception Invalid book label
+17:22:43.146 [main] INFO  vorobyev.bookdao.validator.BookValidator.isLabelValid - Label Another book valid: true
+17:22:43.149 [main] INFO  vorobyev.bookdao.validator.BookValidator.isPublishYearValid - Publish year: 1876 valid: true
+17:22:43.150 [main] INFO  vorobyev.bookdao.validator.BookValidator.isAuthorNameValid - Author name: Lewis Carroll valid: true
+17:22:43.151 [main] INFO  bookdao.service.impl.BookServiceImpl.addToDao - Book (Book{bookId=5, bookLabel='Another book', authors=[Lewis Carroll], publishYear=1876, genres=[]}) has been added to Dao

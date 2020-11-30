@@ -13,9 +13,9 @@ import java.util.stream.Stream;
 public class BookValidator {
     private static final Logger logger = LogManager.getLogger();
 
-    private static final String BOOK_LABEL_REGEX = "[A-Za-z-!.,0-9[[:space:]]]{1,30}";
-    private static final String AUTHOR_NAME_REGEX = "[A-Za-z-]{1,25}[[:space:]][A-Za-z-]{1,25}";
-    private static final int MIN_YEAR = 1900;
+    private static final String BOOK_LABEL_REGEX = "[A-Za-z-!.,0-9\\s]{1,30}";
+    private static final String AUTHOR_NAME_REGEX = "[A-Za-z-]{1,25}\\s[A-Za-z-]{1,25}";
+    private static final int MIN_YEAR = 1800;
     private static final int MAX_YEAR = 2100;
 
     private BookValidator(){}

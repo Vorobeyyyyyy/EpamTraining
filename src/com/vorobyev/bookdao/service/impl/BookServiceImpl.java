@@ -24,13 +24,13 @@ public class BookServiceImpl implements BookService {
         if (book == null) {
             throw new ServiceException("Book was null");
         }
-        if (BookValidator.isLabelValid(book.getBookLabel())) {
+        if (!BookValidator.isLabelValid(book.getBookLabel())) {
             throw new ServiceException("Invalid book label");
         }
-        if (BookValidator.isPublishYearValid(book.getPublishYear())) {
+        if (!BookValidator.isPublishYearValid(book.getPublishYear())) {
             throw new ServiceException("Invalid publish year");
         }
-        if (BookValidator.isAuthorNamesValid(book.getAuthors())) {
+        if (!BookValidator.isAuthorNamesValid(book.getAuthors())) {
             throw new ServiceException("Invalid Authors");
         }
         try {
@@ -64,12 +64,11 @@ public class BookServiceImpl implements BookService {
         if (newLabel == null) {
             throw new ServiceException("New label was null");
         }
+        if (!BookValidator.isLabelValid(newLabel)) {
+            throw new ServiceException("Invalid book label");
+        }
         try {
-            if (BookValidator.isLabelValid(newLabel)) {
-                BOOK_DAO.changeBookLabel(id, newLabel);
-            } else {
-                throw new ServiceException("Invalid book label");
-            }
+            BOOK_DAO.changeBookLabel(id, newLabel);
         } catch (DaoException exception) {
             throw new ServiceException(exception.getMessage());
         }
