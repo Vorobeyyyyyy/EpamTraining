@@ -12,7 +12,7 @@ import org.apache.logging.log4j.Logger;
 public class BookService {
     private static final Logger logger = LogManager.getLogger();
 
-    private static final BookDaoImpl bookDao = BookDaoImpl.getInstance();
+    private static final BookDaoImpl BOOK_DAO = BookDaoImpl.getInstance();
 
     public void addToDao(Book book) throws ServiceException {
         if (book == null) {
@@ -23,7 +23,7 @@ public class BookService {
             if (BookValidator.isLabelValid(book.getBookLabel())) {
                 if (BookValidator.isPublishYearValid(book.getPublishYear())) {
                     if (BookValidator.isAuthorNamesValid(book.getAuthors())) {
-                        bookDao.add(book);
+                        BOOK_DAO.add(book);
                         logger.log(Level.INFO, "Book ({}) has been added to Dao", book);
                     } else {
                         throw new ServiceException("Invalid Authors");
@@ -41,7 +41,7 @@ public class BookService {
 
     public void removeFromDao(long id) throws ServiceException {
         try {
-            bookDao.remove(id);
+            BOOK_DAO.remove(id);
         } catch (DaoException exception) {
             throw new ServiceException(exception.getMessage());
         }
@@ -53,7 +53,7 @@ public class BookService {
         }
         try {
             if (BookValidator.isLabelValid(newLabel)) {
-                bookDao.changeBookLabel(id, newLabel);
+                BOOK_DAO.changeBookLabel(id, newLabel);
             } else {
                 throw new ServiceException("Invalid book label");
             }
@@ -61,6 +61,4 @@ public class BookService {
             throw new ServiceException(exception.getMessage());
         }
     }
-
-
 }
